@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mossy-moose
-- 👀 I’m interested in all things developement, and currently dev employment.
-- 🌱 I’m currently building projects in python and a little bit of C
+- 👀 I’m interested in all things developement, and currently interested in Python Dev. employment.
+- 🌱 I’m currently building projects in Python.
 - 💞️ I’m looking to collaborate on any projects that can utilize or expand my knowledge.
 - 📫 How to reach me kdupuis.bc@gmail.com
 
